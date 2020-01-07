@@ -1,1 +1,2 @@
-# LIscensePlateDetector
+# ImageProcessing
+Contains project files.
